@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fifth file is amazing
+=======
+Hello
+>>>>>>> 008bdc21a7779c337346e8edfffd6556a8ba6cde

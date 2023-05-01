@@ -1,2 +1,8 @@
 m in third 
+<<<<<<< HEAD
 kaka mla maf kara 
+=======
+
+
+I am started working in third file
+>>>>>>> 008bdc21a7779c337346e8edfffd6556a8ba6cde

@@ -7,3 +7,7 @@ fourth line test
 
 revert changes
 
+<<<<<<< HEAD
+=======
+first file change...
+>>>>>>> 008bdc21a7779c337346e8edfffd6556a8ba6cde
